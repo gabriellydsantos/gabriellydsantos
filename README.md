@@ -10,11 +10,11 @@
 ```js
 import Desenvolvedora from 'Gaby';
 class SobreMim extends Desenvolvedora {
-  nome     = 'Gabrielly Dos Santos';
-  área    = 'Front-end e Back-end';
-  técnico  = 'ETEC Antônio Furlan';
+  nome = 'Gabrielly Dos Santos';
+  área = 'Front-end e Back-end';
+  técnico = 'Informática para Internet';
+  graduação = 'Ciências da computação';
   local = 'São Paulo, SP';
-  pronomes = 'ela / dela';
 }
 ```
 <br>
